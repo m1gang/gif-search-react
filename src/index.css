@@ -38,3 +38,12 @@ input{
   max-width: 400px;
   max-height: 200px;
 }
+
+.title-gif {
+  background: linear-gradient(90deg, #e30808, #33e10b, #0b7de1);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  text-shadow: 0.5px 0.5px 0px rgb(0, 0, 0);
+  width: 200px;
+}
